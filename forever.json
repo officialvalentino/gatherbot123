@@ -1,0 +1,5 @@
+{
+    "uid": "valbot",
+    "watch": true,
+    "script": "valbot.js"
+}

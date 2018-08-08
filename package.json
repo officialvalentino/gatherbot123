@@ -1,0 +1,16 @@
+{
+  "name": "valbot",
+  "version": "1.0.0",
+  "main": "valbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zer0ney#0025",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fortnite": "^4.1.1"
+  }
+}
