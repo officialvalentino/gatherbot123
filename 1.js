@@ -15,7 +15,7 @@ var vc;
 
 client.on("ready", () => {
   console.log('ready!')
-  client.user.setActivity('Prox Private Scrims', { type: 'PLAYING' });
+  client.user.setActivity('Prox Private Scrims1', { type: 'PLAYING' });
 })
 
 client.on('message', message => {
