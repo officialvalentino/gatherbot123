@@ -354,7 +354,7 @@ client.on('message', message => {
     message.guild.roles.find('name', 'Captain').members.forEach(function (user){
       if(user.voiceChannel != undefined){
         user.setVoiceChannel('474953735588544512')
-      } else {user.createDM().then(dm => dm.send('Hello! One of the staff have summoned all the captains, please check **Prox Private Scrims when you can.')).catch(console.error);}
+      } else {user.createDM().then(dm => dm.send('Hello! One of the staff have summoned all the captains, please check **Prox Private Scrims** when you can.')).catch(console.error);}
     })
   }
   //super duper special commands
