@@ -377,4 +377,4 @@ client.on('message', message => {
     //captain.addRole(roleID); player2.addRole(roleID); player3.addRole(roleID); player4.addRole(roleID);
 
 
-client.login('NDc2NzA0NTY0Njk5OTg3OTY4.DkxlIw.Ky4g9tWPi6neoe2vCUCC8M_GcIY')
+client.login('NDc2NzA0NTY0Njk5OTg3OTY4.DlAX5Q.nsR_0lGTBI_rzotmnAcBziDP-_U')
